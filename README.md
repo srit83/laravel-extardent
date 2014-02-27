@@ -42,6 +42,6 @@ class SmsRecipient extends Extardent
 
 ```
 
-If you dont know how you configure your rules or before and after events show <[https://github.com/laravelbook/ardent](Max Ehsans laravelbook/ardent package on github)>
+If you dont know how you configure your rules or before and after events show [Max Ehsans laravelbook/ardent package on github](https://github.com/laravelbook/ardent)
 
 Have coding fun! ;-)
