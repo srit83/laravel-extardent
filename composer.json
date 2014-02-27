@@ -1,10 +1,11 @@
 {
     "name": "srit83/laravel-extardent",
     "description": "Extending laravelbook/ardent",
+    "license": "MIT",
     "authors": [
         {
             "name": "Stefan Riedel",
-            "email": "sr@fellnose.de"
+            "email": "sr@phpate.de"
         }
     ],
     "require": {
