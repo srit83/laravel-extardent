@@ -1,4 +1,4 @@
-#Extsentry
+#Extardent
 
 an extension package for laravelbook/ardent
 
